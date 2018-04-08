@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudentRegistration</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Family Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="major">Major</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done</string>
+    <string name="search_major">Search Major</string>
+</resources>

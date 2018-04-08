@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "degreelist">
+        <item>Ph.D</item>
+        <item>Ed.D</item>
+        <item>MA</item>
+        <item>MS</item>
+        <item>MFA</item>
+        <item>Professional Master Degree</item>
+    </string-array>
+</resources>
